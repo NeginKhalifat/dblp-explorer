@@ -1,0 +1,4383 @@
+{
+  "id": "100001334",
+  "title": "Ontologies in HYDRA - Middleware for Ambient Intelligent Devices.",
+  "authors": [
+    {
+      "name": "Peter Kostelnik",
+      "id": "2702511795"
+    },
+    {
+      "name": "Martin Sarnovsky",
+      "id": "2041014688"
+    },
+    {
+      "name": "Jan Hreno",
+      "id": "2398560122"
+    }
+  ],
+  "venue": {
+    "raw": "AMIF"
+  },
+  "year": 2009,
+  "n_citation": 2,
+  "page_start": "43",
+  "page_end": "46",
+  "doc_type": "",
+  "publisher": "",
+  "volume": "",
+  "issue": "",
+  "fos": [
+    {
+      "name": "Lernaean Hydra",
+      "w": 0.4178039
+    },
+    {
+      "name": "Database",
+      "w": 0.4269269
+    },
+    {
+      "name": "World Wide Web",
+      "w": 0.415332377
+    },
+    {
+      "name": "Ontology (information science)",
+      "w": 0.459045082
+    },
+    {
+      "name": "Computer science",
+      "w": 0.399807781
+    },
+    {
+      "name": "Middleware",
+      "w": 0.5905041
+    },
+    {
+      "name": "Ambient intelligence",
+      "w": 0.5440575
+    }
+  ]
+}
+{
+  "id": "1000018889",
+  "title": "Remote Policy Enforcement for Trusted Application Execution in Mobile Environments",
+  "authors": [
+    {
+      "name": "Fabio Martinelli",
+      "id": "2107438709",
+      "org": "Istituto di Informatica e Telematica, Consiglio Nazionale delle Ricerche, Pisa, Italy#TAB#"
+    },
+    {
+      "name": "Ilaria Matteucci",
+      "id": "2311169168",
+      "org": "Istituto di Informatica e Telematica, Consiglio Nazionale delle Ricerche, Pisa, Italy#TAB#"
+    },
+    {
+      "name": "Andrea Saracino",
+      "id": "2140477378",
+      "org": "Dipartimento di Ingegneria dell'Informazione, Universit di Pisa, Pisa, Italy and Istituto di Informatica e Telematica, Consiglio Nazionale delle Ricerche, Pisa, Italy#TAB#"
+    },
+    {
+      "name": "Daniele Sgandurra",
+      "id": "252575161",
+      "org": "Istituto di Informatica e Telematica, Consiglio Nazionale delle Ricerche, Pisa, Italy#TAB#"
+    }
+  ],
+  "venue": {
+    "raw": "international conference on trusted systems",
+    "id": "2760518661"
+  },
+  "year": 2013,
+  "n_citation": 2,
+  "page_start": "70",
+  "page_end": "84",
+  "doc_type": "Conference",
+  "publisher": "Springer, Cham",
+  "volume": "",
+  "issue": "",
+  "doi": "10.1007/978-3-319-03491-1_5",
+  "references": [
+    "94181602",
+    "1504669610",
+    "1542792105",
+    "1639158619",
+    "1966825932",
+    "2050529434",
+    "2055456945",
+    "2084871158",
+    "2140911579",
+    "2141935522",
+    "2145187482",
+    "2408322241"
+  ],
+  "indexed_abstract": {
+    "IndexLength": 173,
+    "InvertedIndex": {
+      "Both": [
+        0
+      ],
+      "in": [
+        1,
+        64
+      ],
+      "the": [
+        2,
+        43,
+        70,
+        93,
+        101,
+        110,
+        118,
+        124,
+        129,
+        133,
+        136,
+        140,
+        142,
+        151,
+        166
+      ],
+      "cloud": [
+        3
+      ],
+      "and": [
+        4,
+        18,
+        24,
+        77,
+        126,
+        138,
+        156,
+        171
+      ],
+      "mobile": [
+        5
+      ],
+      "environments,": [
+        6
+      ],
+      "a": [
+        7,
+        36,
+        83,
+        157
+      ],
+      "large": [
+        8
+      ],
+      "number": [
+        9
+      ],
+      "of": [
+        10,
+        51,
+        95,
+        128,
+        135,
+        139
+      ],
+      "online": [
+        11
+      ],
+      "services": [
+        12
+      ],
+      "is": [
+        13,
+        114,
+        168
+      ],
+      "daily": [
+        14
+      ],
+      "accessed": [
+        15
+      ],
+      "through": [
+        16
+      ],
+      "smartphones": [
+        17,
+        163
+      ],
+      "tablets.": [
+        19
+      ],
+      "Since": [
+        20
+      ],
+      "several": [
+        21
+      ],
+      "security,": [
+        22
+      ],
+      "safety": [
+        23
+      ],
+      "trust": [
+        25
+      ],
+      "concerns": [
+        26
+      ],
+      "may": [
+        27,
+        34
+      ],
+      "arise": [
+        28
+      ],
+      "when": [
+        29,
+        68
+      ],
+      "using": [
+        30,
+        69
+      ],
+      "these": [
+        31,
+        47
+      ],
+      "services,": [
+        32
+      ],
+      "providers": [
+        33,
+        56,
+        88
+      ],
+      "require": [
+        35
+      ],
+      "usage": [
+        37
+      ],
+      "policy": [
+        38,
+        52,
+        120
+      ],
+      "to": [
+        39,
+        57,
+        74,
+        89,
+        121,
+        148
+      ],
+      "be": [
+        40
+      ],
+      "enforced": [
+        41
+      ],
+      "on": [
+        42,
+        100
+      ],
+      "devices": [
+        44,
+        62
+      ],
+      "while": [
+        45
+      ],
+      "accessing": [
+        46
+      ],
+      "services.": [
+        48
+      ],
+      "This": [
+        49
+      ],
+      "kind": [
+        50
+      ],
+      "enforcements": [
+        53
+      ],
+      "enables": [
+        54
+      ],
+      "service": [
+        55,
+        87
+      ],
+      "have": [
+        58,
+        90
+      ],
+      "assurance": [
+        59,
+        91
+      ],
+      "that": [
+        60,
+        165
+      ],
+      "remote": [
+        61
+      ],
+      "are": [
+        63
+      ],
+      "an": [
+        65,
+        107
+      ],
+      "acceptable": [
+        66
+      ],
+      "state": [
+        67
+      ],
+      "provided": [
+        71
+      ],
+      "service,": [
+        72
+      ],
+      "according": [
+        73
+      ],
+      "their": [
+        75
+      ],
+      "terms": [
+        76,
+        125
+      ],
+      "conditions.\r\n\r\nIn": [
+        78
+      ],
+      "this": [
+        79
+      ],
+      "paper,": [
+        80
+      ],
+      "we": [
+        81
+      ],
+      "propose": [
+        82
+      ],
+      "framework": [
+        84,
+        105,
+        143
+      ],
+      "which": [
+        85,
+        113
+      ],
+      "allows": [
+        86
+      ],
+      "about": [
+        92
+      ],
+      "enforcement": [
+        94
+      ],
+      "some": [
+        96
+      ],
+      "functional": [
+        97
+      ],
+      "policies": [
+        98
+      ],
+      "directly": [
+        99
+      ],
+      "device.": [
+        102
+      ],
+      "The": [
+        103
+      ],
+      "proposed": [
+        104
+      ],
+      "inserts": [
+        106
+      ],
+      "enforcer": [
+        108,
+        137
+      ],
+      "into": [
+        109
+      ],
+      "client's": [
+        111
+      ],
+      "device,": [
+        112
+      ],
+      "responsible": [
+        115
+      ],
+      "for": [
+        116,
+        161
+      ],
+      "enforcing": [
+        117
+      ],
+      "provider's": [
+        119
+      ],
+      "abide": [
+        122
+      ],
+      "by": [
+        123
+      ],
+      "conditions": [
+        127
+      ],
+      "service.": [
+        130
+      ],
+      "To": [
+        131
+      ],
+      "assure": [
+        132
+      ],
+      "integrity": [
+        134
+      ],
+      "policy,": [
+        141
+      ],
+      "exploits": [
+        144
+      ],
+      "Trusted": [
+        145
+      ],
+      "Computing": [
+        146
+      ],
+      "techniques": [
+        147
+      ],
+      "remotely": [
+        149
+      ],
+      "attest": [
+        150
+      ],
+      "enforcer's": [
+        152
+      ],
+      "measurements.": [
+        153
+      ],
+      "Preliminary": [
+        154
+      ],
+      "experiments": [
+        155
+      ],
+      "first": [
+        158
+      ],
+      "prototype": [
+        159
+      ],
+      "implementation": [
+        160
+      ],
+      "Android-based": [
+        162
+      ],
+      "suggest": [
+        164
+      ],
+      "approach": [
+        167
+      ],
+      "both": [
+        169
+      ],
+      "viable": [
+        170
+      ],
+      "effective.": [
+        172
+      ]
+    }
+  },
+  "fos": [
+    {
+      "name": "Trusted Computing",
+      "w": 0.6314859
+    },
+    {
+      "name": "Exploit",
+      "w": 0.454504043
+    },
+    {
+      "name": "Mobile device",
+      "w": 0.527162254
+    },
+    {
+      "name": "Computer security",
+      "w": 0.4636836
+    },
+    {
+      "name": "Android (operating system)",
+      "w": 0.4973744
+    },
+    {
+      "name": "Service provider",
+      "w": 0.613621056
+    },
+    {
+      "name": "Enforcement",
+      "w": 0.486138523
+    },
+    {
+      "name": "Trusted Platform Module",
+      "w": 0.5545424
+    },
+    {
+      "name": "Cloud computing",
+      "w": 0.5464316
+    },
+    {
+      "name": "Business",
+      "w": 0.410246879
+    }
+  ]
+}
+{
+  "id": "94181602",
+  "title": "A SIMPLE OBSERVATION REGARDING ITERATIONS OF FINITE-VALUED POLYNOMIAL-TIME FUNCTIONS",
+  "authors": [
+    {
+      "name": "Jerzy Mycka",
+      "id": "263067851"
+    }
+  ],
+  "venue": {
+    "raw": "Reports on Mathematical Logic",
+    "id": "42464861"
+  },
+  "year": 2009,
+  "n_citation": 0,
+  "page_start": "19",
+  "page_end": "29",
+  "doc_type": "Journal",
+  "publisher": "",
+  "volume": "44",
+  "issue": "",
+  "references": [
+    "1972178849",
+    "2069792094"
+  ],
+  "indexed_abstract": {
+    "IndexLength": 49,
+    "InvertedIndex": {
+      "A": [
+        0
+      ],
+      "b": [
+        1
+      ],
+      "s": [
+        2
+      ],
+      "t": [
+        3
+      ],
+      "r": [
+        4
+      ],
+      "a": [
+        5,
+        31
+      ],
+      "c": [
+        6
+      ],
+      "t.": [
+        7
+      ],
+      "We": [
+        8
+      ],
+      "present": [
+        9
+      ],
+      "this": [
+        10
+      ],
+      "note": [
+        11
+      ],
+      "to": [
+        12,
+        25
+      ],
+      "point": [
+        13
+      ],
+      "out": [
+        14
+      ],
+      "that": [
+        15
+      ],
+      "the": [
+        16,
+        43
+      ],
+      "finitevalued": [
+        17
+      ],
+      "polynomial-time": [
+        18
+      ],
+      "computable": [
+        19,
+        47
+      ],
+      "functions": [
+        20
+      ],
+      "are": [
+        21
+      ],
+      "closed": [
+        22
+      ],
+      "with": [
+        23
+      ],
+      "respect": [
+        24
+      ],
+      "iteration.": [
+        26
+      ],
+      "This": [
+        27
+      ],
+      "fact": [
+        28
+      ],
+      "is": [
+        29
+      ],
+      "not": [
+        30,
+        41
+      ],
+      "difficult": [
+        32
+      ],
+      "result,": [
+        33
+      ],
+      "however": [
+        34
+      ],
+      "it": [
+        35
+      ],
+      "can": [
+        36
+      ],
+      "be": [
+        37
+      ],
+      "useful": [
+        38
+      ],
+      "in": [
+        39
+      ],
+      "constructions": [
+        40
+      ],
+      "exceeding": [
+        42
+      ],
+      "class": [
+        44
+      ],
+      "of": [
+        45
+      ],
+      "polynomialtime": [
+        46
+      ],
+      "functions.": [
+        48
+      ]
+    }
+  },
+  "fos": [
+    {
+      "name": "Discrete mathematics",
+      "w": 0.473684847
+    },
+    {
+      "name": "Time complexity",
+      "w": 0.5170442
+    },
+    {
+      "name": "Mathematics",
+      "w": 0.448530942
+    },
+    {
+      "name": "Mathematical analysis",
+      "w": 0.465644926
+    },
+    {
+      "name": "Computable number",
+      "w": 0.7559471
+    },
+    {
+      "name": "Computable analysis",
+      "w": 0.8073153
+    },
+    {
+      "name": "Computable function",
+      "w": 0.7075342
+    }
+  ]
+}
+{
+  "id": "100004108",
+  "title": "Gait based human identity recognition from multi-view surveillance videos",
+  "authors": [
+    {
+      "name": "Emdad Hossain",
+      "id": "2017661848",
+      "org": "Faculty of Information Science and Engineering, University of Canberra, Australia#TAB#"
+    },
+    {
+      "name": "Girija Chetty",
+      "id": "2112932526",
+      "org": "Faculty of Information Science and Engineering, University of Canberra, Australia#TAB#"
+    }
+  ],
+  "venue": {
+    "raw": "international conference on algorithms and architectures for parallel processing",
+    "id": "1120750887"
+  },
+  "year": 2012,
+  "n_citation": 0,
+  "page_start": "319",
+  "page_end": "328",
+  "doc_type": "Conference",
+  "publisher": "Springer, Berlin, Heidelberg",
+  "volume": "",
+  "issue": "",
+  "doi": "10.1007/978-3-642-33065-0_34",
+  "references": [
+    "1578000111",
+    "2120433720",
+    "2136461127",
+    "2138931357",
+    "2142096206",
+    "2146566773",
+    "2158275940",
+    "2169403998",
+    "2171596602"
+  ],
+  "indexed_abstract": {
+    "IndexLength": 82,
+    "InvertedIndex": {
+      "In": [
+        0
+      ],
+      "this": [
+        1
+      ],
+      "paper": [
+        2
+      ],
+      "we": [
+        3
+      ],
+      "propose": [
+        4
+      ],
+      "a": [
+        5,
+        32,
+        46
+      ],
+      "novel": [
+        6
+      ],
+      "multi-view": [
+        7,
+        59
+      ],
+      "feature": [
+        8,
+        62
+      ],
+      "fusion": [
+        9,
+        60
+      ],
+      "of": [
+        10,
+        66,
+        78
+      ],
+      "gait": [
+        11,
+        56
+      ],
+      "biometric": [
+        12
+      ],
+      "information": [
+        13,
+        53
+      ],
+      "in": [
+        14,
+        70
+      ],
+      "surveillance": [
+        15,
+        28,
+        71
+      ],
+      "videos": [
+        16
+      ],
+      "for": [
+        17,
+        49,
+        76
+      ],
+      "large": [
+        18
+      ],
+      "scale": [
+        19
+      ],
+      "human": [
+        20
+      ],
+      "identification.": [
+        21
+      ],
+      "The": [
+        22,
+        58
+      ],
+      "experimental": [
+        23
+      ],
+      "evaluation": [
+        24
+      ],
+      "on": [
+        25
+      ],
+      "low": [
+        26
+      ],
+      "resolution": [
+        27
+      ],
+      "video": [
+        29
+      ],
+      "images": [
+        30
+      ],
+      "from": [
+        31,
+        54
+      ],
+      "publicly": [
+        33
+      ],
+      "available": [
+        34
+      ],
+      "database": [
+        35
+      ],
+      "showed": [
+        36
+      ],
+      "that": [
+        37
+      ],
+      "the": [
+        38
+      ],
+      "combined": [
+        39
+      ],
+      "LDA-MLP": [
+        40
+      ],
+      "technique": [
+        41
+      ],
+      "turns": [
+        42
+      ],
+      "out": [
+        43
+      ],
+      "to": [
+        44,
+        73
+      ],
+      "be": [
+        45,
+        74
+      ],
+      "powerful": [
+        47
+      ],
+      "method": [
+        48
+      ],
+      "capturing": [
+        50
+      ],
+      "identity": [
+        51,
+        79
+      ],
+      "specific": [
+        52
+      ],
+      "walking": [
+        55
+      ],
+      "patterns.": [
+        57
+      ],
+      "at": [
+        61
+      ],
+      "level": [
+        63
+      ],
+      "allows": [
+        64
+      ],
+      "complementarity": [
+        65
+      ],
+      "multiple": [
+        67
+      ],
+      "camera": [
+        68
+      ],
+      "views": [
+        69
+      ],
+      "scenarios": [
+        72
+      ],
+      "exploited": [
+        75
+      ],
+      "improvement": [
+        77
+      ],
+      "recognition": [
+        80
+      ],
+      "performance.": [
+        81
+      ]
+    }
+  },
+  "fos": [
+    {
+      "name": "Biometrics",
+      "w": 0.529778063
+    },
+    {
+      "name": "Gait",
+      "w": 0.405741572
+    },
+    {
+      "name": "Computer science",
+      "w": 0.396859467
+    },
+    {
+      "name": "Computer vision",
+      "w": 0.4514174
+    },
+    {
+      "name": "Complementarity (molecular biology)",
+      "w": 0.416381866
+    },
+    {
+      "name": "Pattern recognition",
+      "w": 0.440226734
+    },
+    {
+      "name": "Artificial intelligence",
+      "w": 0.0
+    }
+  ]
+}
+{
+  "id": "10000571",
+  "title": "The GAME Algorithm Applied to Complex Fractionated Atrial Electrograms Data Set",
+  "authors": [
+    {
+      "name": "Pavel Kord\u00edk",
+      "id": "419063071",
+      "org": "Department of Computer Science and Engineering, FEE, Czech Technical University, Prague, Czech Republic#TAB#"
+    },
+    {
+      "name": "V\u00e1clav K\u0159emen",
+      "id": "1601518244",
+      "org": "Department of Cybernetics, FEE, Czech Technical University, Prague, Czech Republic#TAB#"
+    },
+    {
+      "name": "Lenka Lhotska",
+      "id": "195441492",
+      "org": "Department of Cybernetics, FEE, Czech Technical University, Prague, Czech Republic#TAB#"
+    }
+  ],
+  "venue": {
+    "raw": "international conference on artificial neural networks",
+    "id": "1158833223"
+  },
+  "year": 2008,
+  "n_citation": 5,
+  "page_start": "859",
+  "page_end": "868",
+  "doc_type": "Conference",
+  "publisher": "Springer, Berlin, Heidelberg",
+  "volume": "",
+  "issue": "",
+  "doi": "10.1007/978-3-540-87559-8_89",
+  "references": [
+    "291899685",
+    "1964166287",
+    "2135293965",
+    "2146842127",
+    "2150913357",
+    "2151572298",
+    "2293714037"
+  ],
+  "indexed_abstract": {
+    "IndexLength": 171,
+    "InvertedIndex": {
+      "Complex": [
+        0
+      ],
+      "fractionated": [
+        1
+      ],
+      "atrial": [
+        2,
+        10
+      ],
+      "electrograms": [
+        3
+      ],
+      "(CFAEs)": [
+        4
+      ],
+      "represent": [
+        5
+      ],
+      "the": [
+        6,
+        74,
+        106,
+        138,
+        145
+      ],
+      "electrophysiologic": [
+        7,
+        22,
+        141
+      ],
+      "substrate": [
+        8,
+        23,
+        142
+      ],
+      "for": [
+        9
+      ],
+      "fibrillation": [
+        11
+      ],
+      "(AF).": [
+        12
+      ],
+      "Individual": [
+        13
+      ],
+      "signal": [
+        14,
+        128
+      ],
+      "complexes": [
+        15
+      ],
+      "in": [
+        16,
+        165
+      ],
+      "CFAEs": [
+        17,
+        29
+      ],
+      "reflect": [
+        18
+      ],
+      "electrical": [
+        19
+      ],
+      "activity": [
+        20
+      ],
+      "of": [
+        21,
+        60,
+        70,
+        82,
+        96,
+        105,
+        134,
+        140
+      ],
+      "at": [
+        24
+      ],
+      "given": [
+        25
+      ],
+      "time.": [
+        26
+      ],
+      "To": [
+        27
+      ],
+      "identify": [
+        28
+      ],
+      "sites,": [
+        30
+      ],
+      "we": [
+        31,
+        79
+      ],
+      "developed": [
+        32
+      ],
+      "algorithm": [
+        33,
+        108,
+        147
+      ],
+      "based": [
+        34
+      ],
+      "on": [
+        35
+      ],
+      "wavelet": [
+        36,
+        127
+      ],
+      "transform": [
+        37
+      ],
+      "allowing": [
+        38
+      ],
+      "automated": [
+        39
+      ],
+      "feature": [
+        40
+      ],
+      "extraction": [
+        41
+      ],
+      "from": [
+        42
+      ],
+      "source": [
+        43
+      ],
+      "signals.": [
+        44
+      ],
+      "Signals": [
+        45
+      ],
+      "were": [
+        46
+      ],
+      "ranked": [
+        47
+      ],
+      "by": [
+        48
+      ],
+      "three": [
+        49,
+        101
+      ],
+      "experts": [
+        50
+      ],
+      "into": [
+        51,
+        100
+      ],
+      "four": [
+        52
+      ],
+      "classes.": [
+        53,
+        102
+      ],
+      "We": [
+        54
+      ],
+      "compiled": [
+        55
+      ],
+      "a": [
+        56
+      ],
+      "representative": [
+        57
+      ],
+      "data": [
+        58,
+        85,
+        114,
+        150
+      ],
+      "set": [
+        59
+      ],
+      "113": [
+        61
+      ],
+      "instances": [
+        62
+      ],
+      "with": [
+        63
+      ],
+      "extracted": [
+        64
+      ],
+      "features": [
+        65
+      ],
+      "as": [
+        66,
+        73,
+        154
+      ],
+      "inputs": [
+        67
+      ],
+      "and": [
+        68,
+        143,
+        168
+      ],
+      "average": [
+        69,
+        94
+      ],
+      "expert": [
+        71
+      ],
+      "ranking": [
+        72,
+        95
+      ],
+      "output.": [
+        75
+      ],
+      "In": [
+        76
+      ],
+      "this": [
+        77
+      ],
+      "paper,": [
+        78
+      ],
+      "present": [
+        80
+      ],
+      "results": [
+        81
+      ],
+      "our": [
+        83
+      ],
+      "GAME": [
+        84,
+        107,
+        146
+      ],
+      "mining": [
+        86,
+        115,
+        151
+      ],
+      "algorithm,": [
+        87
+      ],
+      "that": [
+        88,
+        126,
+        144
+      ],
+      "was": [
+        89,
+        109
+      ],
+      "used": [
+        90
+      ],
+      "to": [
+        91,
+        111
+      ],
+      "(a)": [
+        92
+      ],
+      "predict": [
+        93
+      ],
+      "experts,": [
+        97
+      ],
+      "(b)": [
+        98
+      ],
+      "classify": [
+        99
+      ],
+      "The": [
+        103
+      ],
+      "performance": [
+        104
+      ],
+      "compared": [
+        110
+      ],
+      "well": [
+        112
+      ],
+      "known": [
+        113
+      ],
+      "techniques": [
+        116,
+        152
+      ],
+      "using": [
+        117
+      ],
+      "robust": [
+        118
+      ],
+      "ten": [
+        119
+      ],
+      "times": [
+        120
+      ],
+      "tenfold": [
+        121
+      ],
+      "cross": [
+        122
+      ],
+      "validation.": [
+        123
+      ],
+      "Results": [
+        124
+      ],
+      "indicate": [
+        125
+      ],
+      "decomposition": [
+        129
+      ],
+      "could": [
+        130
+      ],
+      "carry": [
+        131
+      ],
+      "high": [
+        132
+      ],
+      "level": [
+        133
+      ],
+      "predictive": [
+        135
+      ],
+      "information": [
+        136
+      ],
+      "about": [
+        137
+      ],
+      "state": [
+        139
+      ],
+      "outperforms": [
+        148
+      ],
+      "other": [
+        149
+      ],
+      "(such": [
+        153
+      ],
+      "decision": [
+        155
+      ],
+      "trees,": [
+        156
+      ],
+      "linear": [
+        157
+      ],
+      "regression,": [
+        158
+      ],
+      "neural": [
+        159
+      ],
+      "networks,": [
+        160
+      ],
+      "Support": [
+        161
+      ],
+      "Vector": [
+        162
+      ],
+      "Machines,": [
+        163
+      ],
+      "etc.)": [
+        164
+      ],
+      "both": [
+        166
+      ],
+      "prediction": [
+        167
+      ],
+      "classification": [
+        169
+      ],
+      "accuracy.": [
+        170
+      ]
+    }
+  },
+  "fos": [
+    {
+      "name": "Pattern recognition",
+      "w": 0.453429461
+    },
+    {
+      "name": "Artificial intelligence",
+      "w": 0.0
+    },
+    {
+      "name": "Machine learning",
+      "w": 0.438533664
+    },
+    {
+      "name": "Support vector machine",
+      "w": 0.491891772
+    },
+    {
+      "name": "Algorithm",
+      "w": 0.383691758
+    },
+    {
+      "name": "Cross-validation",
+      "w": 0.5017599
+    },
+    {
+      "name": "Wavelet",
+      "w": 0.472611636
+    },
+    {
+      "name": "Feature extraction",
+      "w": 0.492968947
+    },
+    {
+      "name": "Decision tree",
+      "w": 0.462013751
+    },
+    {
+      "name": "Wavelet transform",
+      "w": 0.46776545
+    },
+    {
+      "name": "Computer science",
+      "w": 0.362296134
+    },
+    {
+      "name": "Radial basis function network",
+      "w": 0.467705876
+    },
+    {
+      "name": "Ranking",
+      "w": 0.461178273
+    }
+  ]
+}
+{
+  "id": "100007563",
+  "title": "Formal Verification of a Simple Automated Negotiation Protocol.",
+  "authors": [
+    {
+      "name": "George Dimitoglou",
+      "id": "2057266651",
+      "org": "Hood College"
+    },
+    {
+      "name": "Okan Duzyol",
+      "id": "2399396772"
+    },
+    {
+      "name": "Lawrence N. Owusu",
+      "id": "2713389301"
+    }
+  ],
+  "venue": {
+    "raw": "Software Engineering Research and Practice",
+    "id": "2764973118"
+  },
+  "year": 2006,
+  "n_citation": 1,
+  "page_start": "650",
+  "page_end": "656",
+  "doc_type": "Journal",
+  "publisher": "",
+  "volume": "",
+  "issue": "",
+  "references": [
+    "1578963809",
+    "1612191182",
+    "1964167056",
+    "2078435329",
+    "2089064860",
+    "2115309705"
+  ],
+  "indexed_abstract": {
+    "IndexLength": 87,
+    "InvertedIndex": {
+      "Negotiation": [
+        0
+      ],
+      "is": [
+        1
+      ],
+      "a": [
+        2,
+        65,
+        70
+      ],
+      "complex": [
+        3
+      ],
+      "human": [
+        4
+      ],
+      "activity": [
+        5
+      ],
+      "and": [
+        6,
+        19,
+        42,
+        62,
+        78,
+        82
+      ],
+      "even": [
+        7
+      ],
+      "in": [
+        8,
+        28
+      ],
+      "its": [
+        9
+      ],
+      "most": [
+        10
+      ],
+      "basic": [
+        11,
+        71
+      ],
+      "form": [
+        12
+      ],
+      "consists": [
+        13
+      ],
+      "of": [
+        14,
+        52
+      ],
+      "three": [
+        15
+      ],
+      "elements:": [
+        16
+      ],
+      "communication,": [
+        17
+      ],
+      "strategy": [
+        18,
+        43
+      ],
+      "bid": [
+        20,
+        40
+      ],
+      "evaluation.": [
+        21
+      ],
+      "The": [
+        22
+      ],
+      "elements": [
+        23
+      ],
+      "are": [
+        24
+      ],
+      "exactly": [
+        25
+      ],
+      "the": [
+        26,
+        49,
+        53,
+        83
+      ],
+      "same": [
+        27
+      ],
+      "automated": [
+        29,
+        72
+      ],
+      "negotiation.": [
+        30,
+        54
+      ],
+      "In": [
+        31
+      ],
+      "this": [
+        32
+      ],
+      "paper": [
+        33
+      ],
+      "we": [
+        34,
+        45,
+        68,
+        76
+      ],
+      "present": [
+        35
+      ],
+      "four": [
+        36
+      ],
+      "possible": [
+        37
+      ],
+      "approaches": [
+        38
+      ],
+      "for": [
+        39
+      ],
+      "evaluation": [
+        41
+      ],
+      "but": [
+        44
+      ],
+      "mainly": [
+        46
+      ],
+      "focus": [
+        47
+      ],
+      "on": [
+        48
+      ],
+      "communication": [
+        50
+      ],
+      "aspect": [
+        51
+      ],
+      "Communication": [
+        55
+      ],
+      "lends": [
+        56
+      ],
+      "itself": [
+        57
+      ],
+      "well": [
+        58
+      ],
+      "to": [
+        59
+      ],
+      "be": [
+        60
+      ],
+      "specified": [
+        61
+      ],
+      "modeled": [
+        63
+      ],
+      "as": [
+        64
+      ],
+      "protocol,": [
+        66
+      ],
+      "so": [
+        67
+      ],
+      "introduce": [
+        69
+      ],
+      "negotiation": [
+        73
+      ],
+      "protocol": [
+        74
+      ],
+      "which": [
+        75
+      ],
+      "simulate": [
+        77
+      ],
+      "verify": [
+        79
+      ],
+      "using": [
+        80
+      ],
+      "PROMELA": [
+        81
+      ],
+      "SPIN": [
+        84
+      ],
+      "model": [
+        85
+      ],
+      "checker.": [
+        86
+      ]
+    }
+  },
+  "fos": [
+    {
+      "name": "Refinement",
+      "w": 0.570559442
+    },
+    {
+      "name": "Formal methods",
+      "w": 0.572275043
+    },
+    {
+      "name": "Formal specification",
+      "w": 0.575855732
+    },
+    {
+      "name": "Promela",
+      "w": 0.6409001
+    },
+    {
+      "name": "Theoretical computer science",
+      "w": 0.432041824
+    },
+    {
+      "name": "Negotiation",
+      "w": 0.455897152
+    },
+    {
+      "name": "SPIN model checker",
+      "w": 0.5448363
+    },
+    {
+      "name": "Computer science",
+      "w": 0.416036934
+    },
+    {
+      "name": "Formal verification",
+      "w": 0.5806514
+    }
+  ]
+}
+{
+  "id": "100008278",
+  "title": "EMOTIONAL AND RATIONAL COMPONENTS OF IS SERVICE SATISFACTION AND THEIR IMPACT ON IS SERVICE CONTINUANCE",
+  "authors": [
+    {
+      "name": "Colin Gabriel Onita",
+      "id": "1965742505"
+    },
+    {
+      "name": "Jasbir Singh Dhaliwal",
+      "id": "2678998092"
+    }
+  ],
+  "venue": {
+    "raw": "international conference on information systems",
+    "id": "1140216390"
+  },
+  "year": 2010,
+  "n_citation": 2,
+  "page_start": "238",
+  "page_end": "",
+  "doc_type": "Conference",
+  "publisher": "",
+  "volume": "",
+  "issue": "",
+  "references": [
+    "116282327",
+    "1496783311",
+    "1565838829",
+    "1570850622",
+    "1585650195",
+    "1595575146",
+    "1721421031",
+    "1972013208",
+    "1976893898",
+    "1984588326",
+    "2023407407",
+    "2057012437",
+    "2109300390",
+    "2110506823",
+    "2127455238",
+    "2139808242",
+    "2155225996",
+    "2160123621"
+  ],
+  "indexed_abstract": {
+    "IndexLength": 126,
+    "InvertedIndex": {
+      "IS": [
+        0,
+        50,
+        74,
+        124
+      ],
+      "service": [
+        1,
+        13,
+        25,
+        46,
+        51,
+        75,
+        88,
+        114
+      ],
+      "satisfaction": [
+        2,
+        26,
+        47,
+        76,
+        89,
+        115
+      ],
+      "involves": [
+        3
+      ],
+      "assessing": [
+        4
+      ],
+      "both": [
+        5
+      ],
+      "rat": [
+        6
+      ],
+      "ional": [
+        7
+      ],
+      "and": [
+        8,
+        63,
+        84,
+        100
+      ],
+      "emotional": [
+        9,
+        43
+      ],
+      "components": [
+        10,
+        23,
+        86
+      ],
+      "of": [
+        11,
+        24,
+        33,
+        45,
+        70,
+        87,
+        92,
+        109,
+        113
+      ],
+      "the": [
+        12,
+        16,
+        21,
+        30,
+        39,
+        42,
+        68,
+        81,
+        107,
+        110
+      ],
+      "encounter.": [
+        14
+      ],
+      "Given": [
+        15
+      ],
+      "extensive": [
+        17
+      ],
+      "prior": [
+        18
+      ],
+      "literature": [
+        19
+      ],
+      "on": [
+        20,
+        49,
+        73,
+        116
+      ],
+      "rational": [
+        22,
+        85,
+        111
+      ],
+      "this": [
+        27,
+        61
+      ],
+      "study": [
+        28,
+        79
+      ],
+      "explores": [
+        29
+      ],
+      "mediating": [
+        31
+      ],
+      "role": [
+        32
+      ],
+      "modal": [
+        34,
+        71,
+        103
+      ],
+      "emo": [
+        35
+      ],
+      "tions": [
+        36
+      ],
+      "-": [
+        37,
+        48
+      ],
+      "as": [
+        38
+      ],
+      "basis": [
+        40
+      ],
+      "for": [
+        41,
+        60
+      ],
+      "component": [
+        44,
+        112
+      ],
+      "c": [
+        52
+      ],
+      "ontinuance.": [
+        53
+      ],
+      "The": [
+        54,
+        78
+      ],
+      "paper": [
+        55
+      ],
+      "provides": [
+        56
+      ],
+      "a": [
+        57,
+        93,
+        96
+      ],
+      "measurement": [
+        58
+      ],
+      "instrument": [
+        59
+      ],
+      "purpose": [
+        62
+      ],
+      "uses": [
+        64
+      ],
+      "it": [
+        65
+      ],
+      "to": [
+        66,
+        120
+      ],
+      "show": [
+        67
+      ],
+      "impact": [
+        69
+      ],
+      "emotions": [
+        72,
+        104
+      ],
+      "measurement.": [
+        77
+      ],
+      "tests": [
+        80
+      ],
+      "emoti": [
+        82
+      ],
+      "onal": [
+        83
+      ],
+      "by": [
+        90
+      ],
+      "way": [
+        91
+      ],
+      "survey": [
+        94
+      ],
+      "in": [
+        95
+      ],
+      "large": [
+        97
+      ],
+      "utilities": [
+        98
+      ],
+      "organization": [
+        99
+      ],
+      "finds": [
+        101
+      ],
+      "that": [
+        102
+      ],
+      "do": [
+        105
+      ],
+      "mediate": [
+        106
+      ],
+      "influence": [
+        108
+      ],
+      "an": [
+        117,
+        123
+      ],
+      "individual\u2019s": [
+        118
+      ],
+      "intention": [
+        119
+      ],
+      "continue": [
+        121
+      ],
+      "using": [
+        122
+      ],
+      "service.": [
+        125
+      ]
+    }
+  },
+  "fos": [
+    {
+      "name": "Continuance",
+      "w": 0.512181461
+    },
+    {
+      "name": "Modal",
+      "w": 0.4555632
+    },
+    {
+      "name": "Knowledge management",
+      "w": 0.4517945
+    },
+    {
+      "name": "Marketing",
+      "w": 0.4446883
+    },
+    {
+      "name": "Computer science",
+      "w": 0.403170943
+    },
+    {
+      "name": "Utilities (organization)",
+      "w": 0.0
+    }
+  ]
+}
+{
+  "id": "100008490",
+  "title": "Principle-Based Parsing and Type Inference.",
+  "authors": [
+    {
+      "name": "Sandiway Fong",
+      "id": "2260246652"
+    }
+  ],
+  "venue": {
+    "raw": "Natural Language Understanding and Logic Programming Workshop"
+  },
+  "year": 1991,
+  "n_citation": 3,
+  "page_start": "43",
+  "page_end": "60",
+  "doc_type": "",
+  "publisher": "",
+  "volume": "",
+  "issue": "",
+  "fos": [
+    {
+      "name": "Parsing",
+      "w": 0.5950031
+    },
+    {
+      "name": "Type inference",
+      "w": 0.5785417
+    },
+    {
+      "name": "Artificial intelligence",
+      "w": 0.0
+    },
+    {
+      "name": "Pattern recognition",
+      "w": 0.452213734
+    },
+    {
+      "name": "Computer science",
+      "w": 0.423613369
+    }
+  ]
+}
+{
+  "id": "100008599",
+  "title": "Methodology and resources for the structural segmentation of music pieces into autonomous and comparable blocks",
+  "authors": [
+    {
+      "name": "Fr\u00e9d\u00e9ric Bimbot",
+      "id": "737579779"
+    },
+    {
+      "name": "Emmanuel Deruty",
+      "id": "344114470"
+    },
+    {
+      "name": "Gabriel Sargent",
+      "id": "2097342183"
+    },
+    {
+      "name": "Emmanuel Vincent",
+      "id": "2186238986"
+    }
+  ],
+  "venue": {
+    "raw": "international symposium/conference on music information retrieval",
+    "id": "1144674403"
+  },
+  "year": 2011,
+  "n_citation": 10,
+  "page_start": "287",
+  "page_end": "292",
+  "doc_type": "Conference",
+  "publisher": "",
+  "volume": "",
+  "issue": "",
+  "references": [
+    "1546801087",
+    "1575951498",
+    "2032085270",
+    "2123991323",
+    "2150914223",
+    "2293915843",
+    "2294938120",
+    "2337373014",
+    "2407544556"
+  ],
+  "indexed_abstract": {
+    "IndexLength": 152,
+    "InvertedIndex": {
+      "The": [
+        0,
+        36
+      ],
+      "approach": [
+        1
+      ],
+      "called": [
+        2
+      ],
+      "decomposition": [
+        3
+      ],
+      "into": [
+        4
+      ],
+      "autonomous": [
+        5
+      ],
+      "and": [
+        6,
+        46,
+        55,
+        79,
+        117,
+        150
+      ],
+      "comparable": [
+        7
+      ],
+      "blocks": [
+        8
+      ],
+      "speci": [
+        9
+      ],
+      "es": [
+        10
+      ],
+      "a": [
+        11,
+        23,
+        41,
+        75,
+        105,
+        129
+      ],
+      "methodology": [
+        12,
+        65
+      ],
+      "for": [
+        13,
+        85,
+        134,
+        147
+      ],
+      "producing": [
+        14
+      ],
+      "music": [
+        15,
+        97
+      ],
+      "structure": [
+        16
+      ],
+      "annotation": [
+        17
+      ],
+      "by": [
+        18,
+        82,
+        122
+      ],
+      "human": [
+        19,
+        34
+      ],
+      "listeners": [
+        20
+      ],
+      "based": [
+        21
+      ],
+      "on": [
+        22,
+        28,
+        109
+      ],
+      "set": [
+        24,
+        130
+      ],
+      "of": [
+        25,
+        32,
+        43,
+        58,
+        92,
+        95,
+        131
+      ],
+      "criteria": [
+        26
+      ],
+      "relying": [
+        27
+      ],
+      "the": [
+        29,
+        33,
+        53,
+        56,
+        59,
+        63,
+        90,
+        93,
+        96,
+        100,
+        120,
+        140,
+        144
+      ],
+      "listening": [
+        30
+      ],
+      "experience": [
+        31
+      ],
+      "annotator.": [
+        35
+      ],
+      "present": [
+        37
+      ],
+      "article": [
+        38
+      ],
+      "develops": [
+        39
+      ],
+      "further": [
+        40
+      ],
+      "number": [
+        42
+      ],
+      "fundamental": [
+        44
+      ],
+      "notions": [
+        45
+      ],
+      "practical": [
+        47,
+        115
+      ],
+      "issues,": [
+        48
+      ],
+      "so": [
+        49
+      ],
+      "as": [
+        50,
+        66
+      ],
+      "to": [
+        51,
+        143
+      ],
+      "facilitate": [
+        52
+      ],
+      "usability": [
+        54
+      ],
+      "reproducibility": [
+        57
+      ],
+      "approach.": [
+        60
+      ],
+      "We": [
+        61,
+        127
+      ],
+      "formalize": [
+        62
+      ],
+      "general": [
+        64
+      ],
+      "an": [
+        67,
+        86,
+        123
+      ],
+      "iterative": [
+        68
+      ],
+      "process": [
+        69
+      ],
+      "which": [
+        70,
+        135
+      ],
+      "aims": [
+        71
+      ],
+      "at": [
+        72
+      ],
+      "estimating": [
+        73
+      ],
+      "both": [
+        74
+      ],
+      "structural": [
+        76,
+        141
+      ],
+      "metric": [
+        77
+      ],
+      "pattern": [
+        78
+      ],
+      "its": [
+        80
+      ],
+      "realization,": [
+        81
+      ],
+      "searching": [
+        83
+      ],
+      "empirically": [
+        84
+      ],
+      "optimal": [
+        87
+      ],
+      "compromise": [
+        88
+      ],
+      "describing": [
+        89
+      ],
+      "organization": [
+        91
+      ],
+      "content": [
+        94
+      ],
+      "piece": [
+        98
+      ],
+      "in": [
+        99
+      ],
+      "most": [
+        101
+      ],
+      "economical": [
+        102
+      ],
+      "way,": [
+        103
+      ],
+      "around": [
+        104
+      ],
+      "typical": [
+        106
+      ],
+      "timescale.": [
+        107
+      ],
+      "Based": [
+        108
+      ],
+      "experimental": [
+        110
+      ],
+      "observations,": [
+        111
+      ],
+      "we": [
+        112,
+        118,
+        136
+      ],
+      "detail": [
+        113
+      ],
+      "some": [
+        114
+      ],
+      "considerations": [
+        116
+      ],
+      "illustrate": [
+        119
+      ],
+      "method": [
+        121
+      ],
+      "extensive": [
+        124
+      ],
+      "case": [
+        125
+      ],
+      "study.": [
+        126
+      ],
+      "introduce": [
+        128
+      ],
+      "350": [
+        132
+      ],
+      "songs": [
+        133
+      ],
+      "are": [
+        137
+      ],
+      "releasing": [
+        138
+      ],
+      "freely": [
+        139
+      ],
+      "annotations": [
+        142
+      ],
+      "research": [
+        145
+      ],
+      "community,": [
+        146
+      ],
+      "examination,": [
+        148
+      ],
+      "discussion": [
+        149
+      ],
+      "utilization.": [
+        151
+      ]
+    }
+  },
+  "fos": [
+    {
+      "name": "Usability",
+      "w": 0.5327128
+    },
+    {
+      "name": "Machine learning",
+      "w": 0.46084702
+    },
+    {
+      "name": "Speech recognition",
+      "w": 0.441222548
+    },
+    {
+      "name": "Music information retrieval",
+      "w": 0.558923841
+    },
+    {
+      "name": "Computer science",
+      "w": 0.437438756
+    },
+    {
+      "name": "Artificial intelligence",
+      "w": 0.0
+    },
+    {
+      "name": "Active listening",
+      "w": 0.451054037
+    },
+    {
+      "name": "Annotation",
+      "w": 0.46988827
+    },
+    {
+      "name": "Iterative and incremental development",
+      "w": 0.509798348
+    },
+    {
+      "name": "Compromise",
+      "w": 0.5502938
+    }
+  ]
+}
+{
+  "id": "100008749",
+  "title": "Predictability in Real-time System Development (1) Semantics Support from Development Languages .",
+  "authors": [
+    {
+      "name": "Jinfeng Huang",
+      "id": "2116595219"
+    },
+    {
+      "name": "Jeroen Voeten",
+      "id": "2001247965"
+    },
+    {
+      "name": "Andre Ventevogel",
+      "id": "2056150360"
+    }
+  ],
+  "venue": {
+    "raw": "forum on specification and design languages",
+    "id": "1190953609"
+  },
+  "year": 2004,
+  "n_citation": 2,
+  "page_start": "264",
+  "page_end": "278",
+  "doc_type": "Conference",
+  "publisher": "",
+  "volume": "",
+  "issue": "",
+  "references": [
+    "23142202",
+    "1483005138",
+    "1485432887",
+    "1503973138",
+    "1529145063",
+    "1582068322",
+    "1587275578",
+    "1679137471",
+    "1774201030",
+    "2096903155",
+    "2099184371",
+    "2103222795",
+    "2108204150"
+  ],
+  "fos": [
+    {
+      "name": "Real-time computing",
+      "w": 0.461091518
+    },
+    {
+      "name": "Semantics",
+      "w": 0.463481247
+    },
+    {
+      "name": "Predictability",
+      "w": 0.5353195
+    },
+    {
+      "name": "Computer science",
+      "w": 0.443870634
+    },
+    {
+      "name": "Real-time operating system",
+      "w": 0.463120967
+    },
+    {
+      "name": "Real-time Control System",
+      "w": 0.5408645
+    }
+  ]
+}{
+  "id": "1972220954",
+  "title": "Directional Routing via Generalized st -Numberings",
+  "authors": [
+    {
+      "name": "Fred S. Annexstein",
+      "id": "226129601"
+    },
+    {
+      "name": "Kenneth A. Berman",
+      "id": "416392284"
+    }
+  ],
+  "venue": {
+    "raw": "SIAM Journal on Discrete Mathematics",
+    "id": "117679221"
+  },
+  "year": 2000,
+  "n_citation": 11,
+  "page_start": "268",
+  "page_end": "279",
+  "doc_type": "Journal",
+  "publisher": "Society for Industrial and Applied Mathematics",
+  "volume": "13",
+  "issue": "2",
+  "doi": "10.1137/S0895480198333290",
+  "references": [
+    "1586859976",
+    "1994038124",
+    "2010188140",
+    "2022175859",
+    "2055314845",
+    "2074603057",
+    "2079000395",
+    "2091252880",
+    "2133257629"
+  ],
+  "indexed_abstract": {
+    "IndexLength": 161,
+    "InvertedIndex": {
+      "We": [
+        0,
+        85,
+        121,
+        130
+      ],
+      "present": [
+        1
+      ],
+      "a": [
+        2,
+        13,
+        28,
+        49,
+        102,
+        108,
+        134,
+        143,
+        148
+      ],
+      "mathematical": [
+        3
+      ],
+      "model": [
+        4
+      ],
+      "for": [
+        5,
+        26,
+        32
+      ],
+      "network": [
+        6,
+        50
+      ],
+      "routing": [
+        7
+      ],
+      "based": [
+        8,
+        19,
+        43
+      ],
+      "on": [
+        9,
+        20,
+        44
+      ],
+      "generating": [
+        10
+      ],
+      "paths": [
+        11,
+        60
+      ],
+      "in": [
+        12,
+        53,
+        62,
+        94,
+        110,
+        118,
+        151
+      ],
+      "consistent": [
+        14
+      ],
+      "direction.": [
+        15
+      ],
+      "Our": [
+        16,
+        36
+      ],
+      "development": [
+        17
+      ],
+      "is": [
+        18,
+        42,
+        140
+      ],
+      "an": [
+        21
+      ],
+      "algebraic": [
+        22
+      ],
+      "and": [
+        23,
+        56
+      ],
+      "geometric": [
+        24
+      ],
+      "framework": [
+        25
+      ],
+      "defining": [
+        27
+      ],
+      "directional": [
+        29,
+        72,
+        115
+      ],
+      "coordinate": [
+        30
+      ],
+      "system": [
+        31
+      ],
+      "real": [
+        33
+      ],
+      "vector": [
+        34
+      ],
+      "spaces.": [
+        35
+      ],
+      "model,": [
+        37
+      ],
+      "which": [
+        38
+      ],
+      "generalizes": [
+        39,
+        126
+      ],
+      "graph": [
+        40,
+        137
+      ],
+      "st-numberings,": [
+        41
+      ],
+      "mapping": [
+        45
+      ],
+      "the": [
+        46,
+        59,
+        66,
+        75,
+        95,
+        113,
+        119,
+        124,
+        154,
+        158
+      ],
+      "nodes": [
+        47,
+        106
+      ],
+      "of": [
+        48,
+        104,
+        112,
+        145
+      ],
+      "to": [
+        51,
+        127,
+        142
+      ],
+      "points": [
+        52
+      ],
+      "multidimensional": [
+        54
+      ],
+      "space": [
+        55
+      ],
+      "ensures": [
+        57
+      ],
+      "that": [
+        58,
+        87,
+        98,
+        123,
+        133,
+        139
+      ],
+      "generated": [
+        61
+      ],
+      "different": [
+        63
+      ],
+      "directions": [
+        64
+      ],
+      "from": [
+        65
+      ],
+      "same": [
+        67
+      ],
+      "source": [
+        68
+      ],
+      "are": [
+        69
+      ],
+      "node-disjoint.": [
+        70
+      ],
+      "Such": [
+        71
+      ],
+      "embeddings": [
+        73,
+        93
+      ],
+      "encode": [
+        74
+      ],
+      "global": [
+        76
+      ],
+      "disjoint": [
+        77
+      ],
+      "path": [
+        78
+      ],
+      "structure": [
+        79
+      ],
+      "with": [
+        80,
+        153
+      ],
+      "very": [
+        81
+      ],
+      "simple": [
+        82
+      ],
+      "local": [
+        83
+      ],
+      "information.": [
+        84
+      ],
+      "prove": [
+        86
+      ],
+      "all": [
+        88
+      ],
+      "3-connected": [
+        89
+      ],
+      "graphs": [
+        90
+      ],
+      "have": [
+        91
+      ],
+      "3-directional": [
+        92
+      ],
+      "plane": [
+        96
+      ],
+      "so": [
+        97
+      ],
+      "each": [
+        99,
+        111
+      ],
+      "node": [
+        100
+      ],
+      "outside": [
+        101
+      ],
+      "set": [
+        103,
+        144,
+        156
+      ],
+      "extreme": [
+        105,
+        159
+      ],
+      "has": [
+        107,
+        147
+      ],
+      "neighbor": [
+        109
+      ],
+      "three": [
+        114
+      ],
+      "regions": [
+        116
+      ],
+      "defined": [
+        117
+      ],
+      "plane.": [
+        120
+      ],
+      "conjecture": [
+        122
+      ],
+      "result": [
+        125
+      ],
+      "k-connected": [
+        128,
+        141
+      ],
+      "graphs.": [
+        129
+      ],
+      "also": [
+        131
+      ],
+      "show": [
+        132
+      ],
+      "directed": [
+        135
+      ],
+      "acyclic": [
+        136
+      ],
+      "(dag)": [
+        138
+      ],
+      "sinks": [
+        146
+      ],
+      "k-directional": [
+        149
+      ],
+      "embedding": [
+        150
+      ],
+      "(k-1)-space": [
+        152
+      ],
+      "sink": [
+        155
+      ],
+      "as": [
+        157
+      ],
+      "nodes.": [
+        160
+      ]
+    }
+  },
+  "fos": [
+    {
+      "name": "Directed acyclic graph",
+      "w": 0.5804598
+    },
+    {
+      "name": "Coordinate system",
+      "w": 0.503397
+    },
+    {
+      "name": "Discrete mathematics",
+      "w": 0.4518395
+    },
+    {
+      "name": "Mathematics",
+      "w": 0.403900445
+    },
+    {
+      "name": "Combinatorics",
+      "w": 0.447074622
+    },
+    {
+      "name": "Embedding",
+      "w": 0.493680716
+    },
+    {
+      "name": "Connectivity",
+      "w": 0.557340264
+    },
+    {
+      "name": "Vector space",
+      "w": 0.491952
+    },
+    {
+      "name": "Graph theory",
+      "w": 0.5598362
+    },
+    {
+      "name": "Numbering",
+      "w": 0.4923422
+    },
+    {
+      "name": "Disjoint sets",
+      "w": 0.511844158
+    }
+  ]
+}
+{
+  "id": "1972220981",
+  "title": "Professional Certification \u2014 What's the Point?",
+  "authors": [
+    {
+      "name": "Harold F. Tipton",
+      "id": "2699225976"
+    }
+  ],
+  "venue": {
+    "raw": "Information Systems Security",
+    "id": "20257531"
+  },
+  "year": 1998,
+  "n_citation": 0,
+  "page_start": "1",
+  "page_end": "5",
+  "doc_type": "Journal",
+  "publisher": "Taylor & Francis Group",
+  "volume": "7",
+  "issue": "1",
+  "doi": "10.1201/1086/43302.7.1.19980301/31022.2",
+  "fos": [
+    {
+      "name": "Engineering management",
+      "w": 0.434527248
+    },
+    {
+      "name": "Computer security",
+      "w": 0.425138563
+    },
+    {
+      "name": "Computer science",
+      "w": 0.3795148
+    },
+    {
+      "name": "Certification",
+      "w": 0.758366048
+    },
+    {
+      "name": "Professional certification (business)",
+      "w": 0.7808481
+    },
+    {
+      "name": "Professional certification",
+      "w": 0.7095407
+    },
+    {
+      "name": "Professional certification (computer technology)",
+      "w": 0.7899179
+    }
+  ]
+}
+{
+  "id": "1506285740",
+  "title": "Characterising user capabilities to support inclusive design evaluation",
+  "authors": [
+    {
+      "name": "Umesh Persad",
+      "id": "1988772788",
+      "org": "University of Cambridge, Department of Engineering, Engineering Design Centre, Trumpington Street, Cambridge, UK#TAB#"
+    },
+    {
+      "name": "Patrick Langdon",
+      "id": "1999639849",
+      "org": "University of Cambridge, Department of Engineering, Engineering Design Centre, Trumpington Street, Cambridge, UK#TAB#"
+    },
+    {
+      "name": "P. John Clarkson",
+      "id": "2099841072",
+      "org": "University of Cambridge, Department of Engineering, Engineering Design Centre, Trumpington Street, Cambridge, UK#TAB#"
+    }
+  ],
+  "venue": {
+    "raw": "Universal Access in The Information Society",
+    "id": "30338973"
+  },
+  "year": 2007,
+  "n_citation": 65,
+  "page_start": "119",
+  "page_end": "135",
+  "doc_type": "Journal",
+  "publisher": "Springer-Verlag",
+  "volume": "6",
+  "issue": "2",
+  "doi": "10.1007/s10209-007-0083-y",
+  "references": [
+    "170118551",
+    "1840936585",
+    "1982931319",
+    "2069374368",
+    "2092762576",
+    "2151854647"
+  ],
+  "indexed_abstract": {
+    "IndexLength": 74,
+    "InvertedIndex": {
+      "Designers": [
+        0
+      ],
+      "require": [
+        1
+      ],
+      "knowledge": [
+        2
+      ],
+      "and": [
+        3,
+        29,
+        46,
+        60
+      ],
+      "data": [
+        4
+      ],
+      "about": [
+        5
+      ],
+      "users": [
+        6
+      ],
+      "to": [
+        7
+      ],
+      "effectively": [
+        8
+      ],
+      "evaluate": [
+        9
+      ],
+      "product": [
+        10,
+        39,
+        47,
+        57
+      ],
+      "accessibility": [
+        11
+      ],
+      "during": [
+        12
+      ],
+      "the": [
+        13,
+        26,
+        52,
+        63
+      ],
+      "early": [
+        14
+      ],
+      "stages": [
+        15
+      ],
+      "of": [
+        16,
+        32,
+        65
+      ],
+      "design.": [
+        17
+      ],
+      "This": [
+        18
+      ],
+      "paper": [
+        19
+      ],
+      "addresses": [
+        20
+      ],
+      "this": [
+        21
+      ],
+      "problem": [
+        22
+      ],
+      "by": [
+        23
+      ],
+      "setting": [
+        24
+      ],
+      "out": [
+        25
+      ],
+      "sensory,": [
+        27
+      ],
+      "cognitive": [
+        28
+      ],
+      "motor": [
+        30
+      ],
+      "dimensions": [
+        31
+      ],
+      "user": [
+        33,
+        44
+      ],
+      "capability": [
+        34,
+        45
+      ],
+      "that": [
+        35
+      ],
+      "are": [
+        36
+      ],
+      "important": [
+        37
+      ],
+      "for": [
+        38,
+        56,
+        61
+      ],
+      "interaction.": [
+        40
+      ],
+      "The": [
+        41
+      ],
+      "relationship": [
+        42
+      ],
+      "between": [
+        43
+      ],
+      "demand": [
+        48
+      ],
+      "is": [
+        49
+      ],
+      "used": [
+        50
+      ],
+      "as": [
+        51
+      ],
+      "underlying": [
+        53
+      ],
+      "conceptual": [
+        54
+      ],
+      "model": [
+        55
+      ],
+      "design": [
+        58
+      ],
+      "evaluations": [
+        59
+      ],
+      "estimating": [
+        62
+      ],
+      "number": [
+        64
+      ],
+      "people": [
+        66
+      ],
+      "potentially": [
+        67
+      ],
+      "excluded": [
+        68
+      ],
+      "from": [
+        69
+      ],
+      "using": [
+        70
+      ],
+      "a": [
+        71
+      ],
+      "given": [
+        72
+      ],
+      "product.": [
+        73
+      ]
+    }
+  },
+  "fos": [
+    {
+      "name": "Human\u2013computer interaction",
+      "w": 0.431088656
+    },
+    {
+      "name": "User experience design",
+      "w": 0.65107733
+    },
+    {
+      "name": "Management science",
+      "w": 0.448822021
+    },
+    {
+      "name": "Product engineering",
+      "w": 0.64329946
+    },
+    {
+      "name": "Design review",
+      "w": 0.6194987
+    },
+    {
+      "name": "Product design specification",
+      "w": 0.653196752
+    },
+    {
+      "name": "New product development",
+      "w": 0.603882432
+    },
+    {
+      "name": "Experience design",
+      "w": 0.5762199
+    },
+    {
+      "name": "Computer science",
+      "w": 0.4028743
+    },
+    {
+      "name": "Simulation",
+      "w": 0.430370957
+    },
+    {
+      "name": "User-centered design",
+      "w": 0.6361519
+    },
+    {
+      "name": "Product design",
+      "w": 0.6286028
+    }
+  ]
+}
+{
+  "id": "1972221285",
+  "title": "Computerization and control: ICTs and managerial reform in the Thai public sector",
+  "authors": [
+    {
+      "name": "Radaphat Chongthammakun",
+      "id": "333517074",
+      "org": "University of Michigan, Ann Arbor, MI"
+    },
+    {
+      "name": "Steven J. Jackson",
+      "id": "2307424608",
+      "org": "Cornell University, Ithaca NY"
+    }
+  ],
+  "venue": {
+    "raw": "Proceedings of the 2012 iConference on "
+  },
+  "year": 2012,
+  "n_citation": 0,
+  "page_start": "294",
+  "page_end": "302",
+  "doc_type": "",
+  "publisher": "ACM",
+  "volume": "",
+  "issue": "",
+  "doi": "10.1145/2132176.2132214",
+  "references": [
+    "2028136914",
+    "2083605723",
+    "2098877474"
+  ],
+  "indexed_abstract": {
+    "IndexLength": 92,
+    "InvertedIndex": {
+      "Information": [
+        0
+      ],
+      "infrastructures,": [
+        1
+      ],
+      "old": [
+        2
+      ],
+      "and": [
+        3,
+        15,
+        24,
+        34,
+        43,
+        47,
+        61,
+        80
+      ],
+      "new,": [
+        4
+      ],
+      "have": [
+        5
+      ],
+      "long": [
+        6
+      ],
+      "been": [
+        7
+      ],
+      "central": [
+        8
+      ],
+      "to": [
+        9,
+        77,
+        82
+      ],
+      "relations": [
+        10
+      ],
+      "of": [
+        11,
+        36,
+        45,
+        53
+      ],
+      "control": [
+        12,
+        83
+      ],
+      "in": [
+        13,
+        69,
+        87
+      ],
+      "large": [
+        14
+      ],
+      "complex": [
+        16
+      ],
+      "bureaucracies.": [
+        17
+      ],
+      "Beyond": [
+        18
+      ],
+      "their": [
+        19
+      ],
+      "effects": [
+        20
+      ],
+      "on": [
+        21
+      ],
+      "organizational": [
+        22,
+        54
+      ],
+      "forms": [
+        23,
+        79
+      ],
+      "procedures,": [
+        25
+      ],
+      "new": [
+        26,
+        31,
+        78
+      ],
+      "information": [
+        27
+      ],
+      "infrastructures": [
+        28
+      ],
+      "often": [
+        29
+      ],
+      "produce": [
+        30
+      ],
+      "practices,": [
+        32
+      ],
+      "ambitions,": [
+        33
+      ],
+      "contradictions": [
+        35
+      ],
+      "managerialism:": [
+        38
+      ],
+      "namely,": [
+        40
+      ],
+      "the": [
+        41,
+        70
+      ],
+      "extension": [
+        42
+      ],
+      "deepening": [
+        44
+      ],
+      "management": [
+        46
+      ],
+      "oversight": [
+        48
+      ],
+      "capacities": [
+        49
+      ],
+      "at": [
+        50
+      ],
+      "multiple": [
+        51
+      ],
+      "levels": [
+        52
+      ],
+      "function.": [
+        55
+      ],
+      "This": [
+        56
+      ],
+      "paper": [
+        57
+      ],
+      "explores": [
+        58
+      ],
+      "managerial": [
+        59
+      ],
+      "practices": [
+        60
+      ],
+      "tensions": [
+        62
+      ],
+      "accompanying": [
+        63,
+        84
+      ],
+      "recent": [
+        64
+      ],
+      "digital": [
+        65
+      ],
+      "government": [
+        66
+      ],
+      "development": [
+        67
+      ],
+      "efforts": [
+        68
+      ],
+      "Thai": [
+        71
+      ],
+      "public": [
+        72
+      ],
+      "sector,": [
+        73
+      ],
+      "with": [
+        74
+      ],
+      "particular": [
+        75
+      ],
+      "attention": [
+        76
+      ],
+      "resistances": [
+        81
+      ],
+      "or": [
+        85
+      ],
+      "embedded": [
+        86
+      ],
+      "apparently": [
+        88
+      ],
+      "neutral": [
+        89
+      ],
+      "technological": [
+        90
+      ],
+      "change.": [
+        91
+      ]
+    }
+  },
+  "fos": [
+    {
+      "name": "ICTS",
+      "w": 0.0
+    },
+    {
+      "name": "Technological change",
+      "w": 0.497687429
+    },
+    {
+      "name": "Information infrastructure",
+      "w": 0.5437895
+    },
+    {
+      "name": "Public relations",
+      "w": 0.455024
+    },
+    {
+      "name": "Public sector",
+      "w": 0.607189536
+    },
+    {
+      "name": "Business",
+      "w": 0.4559849
+    },
+    {
+      "name": "Bureaucracy",
+      "w": 0.4091052
+    },
+    {
+      "name": "Government",
+      "w": 0.5461931
+    },
+    {
+      "name": "Managerialism",
+      "w": 0.546171546
+    }
+  ]
+}
+{
+  "id": "1972178849",
+  "title": "PROXIMUS: a framework for analyzing very high dimensional discrete-attributed datasets",
+  "authors": [
+    {
+      "name": "Mehmet Koyut\u00fcrk",
+      "id": "128763826",
+      "org": "West Lafayette, IN"
+    },
+    {
+      "name": "Ananth Grama",
+      "id": "245679212",
+      "org": "West Lafayette, IN"
+    }
+  ],
+  "venue": {
+    "raw": "knowledge discovery and data mining",
+    "id": "1130985203"
+  },
+  "year": 2003,
+  "n_citation": 31,
+  "page_start": "147",
+  "page_end": "156",
+  "doc_type": "Conference",
+  "publisher": "ACM",
+  "volume": "",
+  "issue": "",
+  "doi": "10.1145/956750.956770",
+  "references": [
+    "207882028",
+    "1492327544",
+    "1506285740",
+    "1597561788",
+    "1599507890",
+    "1601142477",
+    "1925971201",
+    "1965137541",
+    "1985475123",
+    "2027022598",
+    "2041674806",
+    "2057712948",
+    "2070232376",
+    "2072773380",
+    "2080051508",
+    "2099581008",
+    "2125412267",
+    "2886661658"
+  ],
+  "indexed_abstract": {
+    "IndexLength": 177,
+    "InvertedIndex": {
+      "This": [
+        0
+      ],
+      "paper": [
+        1
+      ],
+      "presents": [
+        2
+      ],
+      "an": [
+        3
+      ],
+      "efficient": [
+        4
+      ],
+      "framework": [
+        5
+      ],
+      "for": [
+        6,
+        42,
+        50,
+        122,
+        134,
+        149,
+        172
+      ],
+      "error-bounded": [
+        7
+      ],
+      "compression": [
+        8,
+        37
+      ],
+      "of": [
+        9,
+        23,
+        27,
+        59,
+        74,
+        80,
+        84,
+        94,
+        107,
+        145,
+        164
+      ],
+      "high-dimensional": [
+        10
+      ],
+      "discrete": [
+        11
+      ],
+      "attributed": [
+        12
+      ],
+      "datasets.": [
+        13,
+        45
+      ],
+      "Such": [
+        14
+      ],
+      "datasets,": [
+        15,
+        89
+      ],
+      "which": [
+        16,
+        63
+      ],
+      "frequently": [
+        17
+      ],
+      "arise": [
+        18
+      ],
+      "in": [
+        19,
+        32,
+        82,
+        92,
+        99,
+        109
+      ],
+      "a": [
+        20,
+        48,
+        55,
+        100,
+        120,
+        132,
+        162
+      ],
+      "wide": [
+        21
+      ],
+      "variety": [
+        22
+      ],
+      "applications,": [
+        24
+      ],
+      "pose": [
+        25
+      ],
+      "some": [
+        26
+      ],
+      "the": [
+        28,
+        146,
+        169
+      ],
+      "most": [
+        29
+      ],
+      "significant": [
+        30
+      ],
+      "challenges": [
+        31
+      ],
+      "data": [
+        33,
+        98,
+        124,
+        148
+      ],
+      "analysis.": [
+        34
+      ],
+      "Subsampling": [
+        35
+      ],
+      "and": [
+        36,
+        90,
+        156
+      ],
+      "are": [
+        38
+      ],
+      "two": [
+        39
+      ],
+      "key": [
+        40
+      ],
+      "technologies": [
+        41
+      ],
+      "analyzing": [
+        43
+      ],
+      "these": [
+        44
+      ],
+      "PROXIMUS": [
+        46,
+        81,
+        108,
+        118
+      ],
+      "provides": [
+        47,
+        153
+      ],
+      "technique": [
+        49
+      ],
+      "reducing": [
+        51,
+        168
+      ],
+      "large": [
+        52,
+        88
+      ],
+      "datasets": [
+        53
+      ],
+      "into": [
+        54
+      ],
+      "much": [
+        56
+      ],
+      "smaller": [
+        57
+      ],
+      "set": [
+        58
+      ],
+      "representative": [
+        60
+      ],
+      "patterns,": [
+        61
+      ],
+      "on": [
+        62
+      ],
+      "traditional": [
+        64
+      ],
+      "(expensive)": [
+        65
+      ],
+      "analysis": [
+        66
+      ],
+      "algorithms": [
+        67,
+        129
+      ],
+      "can": [
+        68
+      ],
+      "be": [
+        69
+      ],
+      "applied": [
+        70
+      ],
+      "with": [
+        71
+      ],
+      "minimal": [
+        72
+      ],
+      "loss": [
+        73
+      ],
+      "accuracy.": [
+        75
+      ],
+      "We": [
+        76,
+        103
+      ],
+      "show": [
+        77,
+        142
+      ],
+      "desirable": [
+        78
+      ],
+      "properties": [
+        79
+      ],
+      "terms": [
+        83,
+        93
+      ],
+      "runtime,": [
+        85
+      ],
+      "scalability": [
+        86
+      ],
+      "to": [
+        87,
+        96
+      ],
+      "performance": [
+        91
+      ],
+      "capability": [
+        95
+      ],
+      "represent": [
+        97
+      ],
+      "compact": [
+        101
+      ],
+      "form.": [
+        102
+      ],
+      "also": [
+        104
+      ],
+      "demonstrate": [
+        105
+      ],
+      "applications": [
+        106
+      ],
+      "association": [
+        110,
+        150,
+        173
+      ],
+      "rule": [
+        111,
+        151,
+        174
+      ],
+      "mining.": [
+        112
+      ],
+      "In": [
+        113
+      ],
+      "doing": [
+        114
+      ],
+      "so,": [
+        115
+      ],
+      "we": [
+        116
+      ],
+      "establish": [
+        117
+      ],
+      "as": [
+        119,
+        131
+      ],
+      "tool": [
+        121,
+        133
+      ],
+      "preprocessing": [
+        123
+      ],
+      "before": [
+        125
+      ],
+      "applying": [
+        126
+      ],
+      "computationally": [
+        127
+      ],
+      "expensive": [
+        128
+      ],
+      "or": [
+        130
+      ],
+      "directly": [
+        135
+      ],
+      "extracting": [
+        136
+      ],
+      "correlated": [
+        137
+      ],
+      "patterns.": [
+        138
+      ],
+      "Our": [
+        139
+      ],
+      "experimental": [
+        140
+      ],
+      "results": [
+        141
+      ],
+      "that": [
+        143
+      ],
+      "use": [
+        144
+      ],
+      "compressed": [
+        147
+      ],
+      "mining": [
+        152,
+        175
+      ],
+      "excellent": [
+        154
+      ],
+      "precision": [
+        155
+      ],
+      "recall": [
+        157
+      ],
+      "values": [
+        158
+      ],
+      "(near": [
+        159
+      ],
+      "100%)": [
+        160
+      ],
+      "across": [
+        161
+      ],
+      "range": [
+        163
+      ],
+      "support": [
+        165
+      ],
+      "thresholds": [
+        166
+      ],
+      "while": [
+        167
+      ],
+      "time": [
+        170
+      ],
+      "required": [
+        171
+      ],
+      "drastically.": [
+        176
+      ]
+    }
+  },
+  "fos": [
+    {
+      "name": "Artificial intelligence",
+      "w": 0.0
+    },
+    {
+      "name": "Machine learning",
+      "w": 0.4458039
+    },
+    {
+      "name": "Precision and recall",
+      "w": 0.4731984
+    },
+    {
+      "name": "Computer science",
+      "w": 0.390501231
+    },
+    {
+      "name": "Data mining",
+      "w": 0.444770545
+    },
+    {
+      "name": "Association rule learning",
+      "w": 0.480590224
+    },
+    {
+      "name": "Preprocessor",
+      "w": 0.418530673
+    },
+    {
+      "name": "Matrix decomposition",
+      "w": 0.409481466
+    },
+    {
+      "name": "Scalability",
+      "w": 0.4675765
+    }
+  ]
+}
+
